@@ -21,6 +21,81 @@ cat >file name- if this file not existing it will create that file name
 man commondName -its giving for about this commond example man echo if you put on terminal you can know that usage got it
 mkdir -p filePath -its using for crating sequence of folder example mkdir -p example/example/example/example/
 touch filename -its usin creating new file
-cp fileName copyFile - its for making coping to one file to another file 
+cp fileName copyFileName - its for making coping to one file to another file 
+rm foldername -its for removing that file or name  		
+df -viewing all file and also size
+df -m -its showing mp size
+dh -h -its showing all size in human readable 
+df -hg -its showing same
+du -its showing file of all files
+du -h - its show file of storage
+viw filename -its creating file and editing also
+head -n linenumber filename -its for viewing till line number   fist  la irrundhu
+tail -n linenumber filename -its for viewing till line number  last la irrundhu
+diff  fileName seconFileName -some times we  want diffrence btw two file use this 
+commond
+locate "*.txt" i showing all txt file and also locate all fies 
+find . -its showing all curret dir
+find ..-its showing all perviewse dir
+find filename -its also showing file name 
+fint . -type f -its showing flie only  
+find . -type f -name ".txt" -its showing all file int text file 
+find . -size +1k
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
