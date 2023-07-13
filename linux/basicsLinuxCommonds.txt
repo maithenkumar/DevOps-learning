@@ -1,0 +1,26 @@
+exit -for the exit 
+clear -this for cleared everthing
+ls -this for listing for present working derictory
+mkdir foldername -its for creating folder for PWD
+cd -change dirc
+cd ../ - this is back the folder in PWD 
+sudo sh --this is for changing for user to root
+echo -it printing example echo "helloe word" 
+echo $PATH-giveing all drectory i mean all Path
+ls -a -this si showing the all hidden files
+ls -l - this also swowing hidden files but it will give more informatino that hidden file you can cheaked out
+ls-al it also same as previews commonds
+cat hiddenFilename-its give  about thats file its also give normal file
+bash - running bash
+viw filename -editing that file inside
+export My_path= "maitheen" -this is for creating envirenment variable but its not a permanent got it 
+echo $My_path -it will give in terminal maitheen
+pwd -geting Present working dir
+ls -R - this is for geting all folder and also all sub folder sub folder sub folder sub folder also 
+cat >file name- if this file not existing it will create that file name
+man commondName -its giving for about this commond example man echo if you put on terminal you can know that usage got it
+mkdir -p filePath -its using for crating sequence of folder example mkdir -p example/example/example/example/
+touch filename -its usin creating new file
+cp fileName copyFile - its for making coping to one file to another file 
+
+
